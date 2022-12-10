@@ -1,9 +1,62 @@
-.nav__link {
-    color: black;
+/* p.error{
+    color: red;
+
+
+
 }
 
+p.success {
+    color: #2ec82e;
+}
 
-.nav__link --active {
-    color: purple;
+p.success.feedback {
+    border: 1px dashed#2ec82e ;
+
+}
+
+div#content {
+    background-color: #ebebeb;
+    padding: 20px;
+
+} */
+
+/* div .error {
+    color: red;
+
+} */
+/* 
+a[href="https://www.youtube.com/watch?v=_ITiwPMUzho&t=3958s&ab_channel=LofiGhostie"]{
+    background-color: #42be42;
+    color: white;
+    text-decoration: none;
     font-weight: bold;
+    text-transform: uppercase;
+
 }
+
+a[href$=";;;"]{
+    color: white;
+    background:red;
+    border: 2px solid blue;
+
+
+ */
+
+
+div{
+    color: lightcoral;
+    border: 1px solid gray;
+    margin: 40px;
+    font-weight: bold;
+
+}
+ p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+
+ }
+
+ p{
+    color: orange;
+ }
